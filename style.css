@@ -1,0 +1,9 @@
+li{
+    font-size: larger;
+    
+}
+li:hover{
+    background-color: rgb(1, 88, 69);
+    transition-duration: 500ms;
+}
+
