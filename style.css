@@ -1,3 +1,17 @@
+:root{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,127,228,1) 35%, rgba(111,238,238,1) 70%, rgba(0,157,189,1) 100%);
+}
+
+.text-white{
+    display: inline-block;
+    font-size: 70px;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,127,228,1) 35%, rgba(111,238,238,1) 70%, rgba(0,157,189,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 li{
     font-size: larger;
     
