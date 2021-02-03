@@ -7,3 +7,11 @@ li:hover{
     transition-duration: 500ms;
 }
 
+ul li a[href]{
+    font-weight: bolder;
+    font-style: italic;
+}
+.navbar-brand{
+    font-weight: 900;
+    font-size: xx-large;
+}
