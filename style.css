@@ -29,3 +29,7 @@ ul li a[href]{
     font-weight: 900;
     font-size: xx-large;
 }
+
+li .dropdown-item:hover{
+    background-color: crimson;
+}
