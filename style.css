@@ -1,3 +1,4 @@
+
 :root{
     background: rgb(255,255,255);
     background: rgb(131,58,180);
@@ -68,4 +69,12 @@ footer{
 }
 .text-not-dark{
     color: white;
+}
+.pb-10{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.text-big{
+    font-size: x-large;
+    font-weight: bolder;
 }
