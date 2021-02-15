@@ -66,3 +66,6 @@ footer{
 .bg-night{
     background-color: #000000;
 }
+.text-not-dark{
+    color: white;
+}
