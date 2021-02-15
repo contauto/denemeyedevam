@@ -1,10 +1,6 @@
 
 :root{
-    background: rgb(255,255,255);
-    background: rgb(131,58,180);
-    background: rgb(97,67,133);
-    background: rgb(33,147,176);
-    background: linear-gradient(90deg, rgba(33,147,176,1) 30%, rgba(109,213,237,1) 100%);
+    background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6);
 }
 
 body{
@@ -14,11 +10,7 @@ body{
 .text-white{
     display: inline-block;
     font-size: 70px;
-    background: rgb(255,255,255);
-    background: rgb(131,58,180);
-    background: rgb(97,67,133);
-    background: rgb(33,147,176);
-background: linear-gradient(90deg, rgba(33,147,176,1) 30%, rgba(109,213,237,1) 100%);
+    background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -47,11 +39,7 @@ li .dropdown-item:hover{
 
 .bg-colorful{
    
-        background: rgb(255,255,255);
-        background: rgb(131,58,180);
-        background: rgb(97,67,133);
-        background: rgb(33,147,176);
-        background: linear-gradient(90deg, rgba(33,147,176,1) 30%, rgba(109,213,237,1) 100%);
+    background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6);
 }
 
 .py-6{
